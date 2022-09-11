@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 14.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "01 Getting Started", "01 Getting Started\01 Getting Started.ssmssqlproj", "{8C578E66-CFF7-4CDE-B655-A12AEFD56CA3}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "02 SELECT Queries", "02 SELECT Queries\02 SELECT Queries.ssmssqlproj", "{F0D8F685-904D-45CA-8431-D39A23E7320C}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "03 Filtering Results", "03 Filtering Results\03 Filtering Results.ssmssqlproj", "{C619CB96-B188-4EAC-9F91-C7F0D30B8576}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "04 Combining Results", "04 Combining Results\04 Combining Results.ssmssqlproj", "{9554F3F8-4C20-4153-A95B-BCAD76D33BCA}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "05 JOIN Queries", "05 JOIN Queries\05 JOIN Queries.ssmssqlproj", "{65D8B47C-9829-45A9-B891-10709DAB6589}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "06 Built-in Functions", "06 Built-in Functions\06 Built-in Functions.ssmssqlproj", "{DA87C067-04FB-4571-AE5D-5B63BA3D5475}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "07 Aggregate Queries", "07 Aggregate Queries\07 Aggregate Queries.ssmssqlproj", "{CC7A3C9D-BC9E-4924-9774-6805CEF02298}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "08 Modification Queries", "08 Modification Queries\08 Modification Queries.ssmssqlproj", "{558FEDB8-928F-48C5-BF22-1E1E5CC12E9C}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "09 Subqueries and APPLY", "09 Subqueries and APPLY\09 Subqueries and APPLY.ssmssqlproj", "{E639586B-68C1-42FD-8681-3E7091B5825C}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "10 Table Expressions", "10 Table Expressions\10 Table Expressions.ssmssqlproj", "{8D10E8D3-94B9-4224-8D88-D1BA77DC9761}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "11 PIVOT and Ranking", "11 PIVOT and Ranking\11 PIVOT and Ranking.ssmssqlproj", "{512E4218-636C-4965-8C38-986D3A78E9ED}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "12 Temporal Queries", "12 Temporal Queries\12 Temporal Queries.ssmssqlproj", "{7A7EA58E-B190-4259-98F1-E0F54C83B5C2}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "13 Non-relational Queries", "13 Non-relational Queries\13 Non-relational Queries.ssmssqlproj", "{7B9ED0F8-F476-4325-80F9-2BC43297A39E}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "14 Creating Views", "14 Creating Views\14 Creating Views.ssmssqlproj", "{E218895B-3B5E-47E9-AB7A-626EF95F9BD5}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "15 Creating User-defined Functions", "15 Creating User-defined Functions\15 Creating User-defined Functions.ssmssqlproj", "{DC35EC89-1026-4820-86A3-D6D2FD694DE2}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "16 Creating Stored Procedures", "16 Creating Stored Procedures\16 Creating Stored Procedures.ssmssqlproj", "{4321311B-290D-43D5-8AC4-DBB2414E3205}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "17 Transactions and Error Handling", "17 Transactions and Error Handling\17 Transactions and Error Handling.ssmssqlproj", "{B542D2D4-075C-4BD0-B494-9E3DB3FFB526}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "18 Data Types and NULL Values", "18 Data Types and NULL Values\18 Data Types and NULL Values.ssmssqlproj", "{6F5D63B6-7D70-411A-9AF9-DBAE46E44205}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C578E66-CFF7-4CDE-B655-A12AEFD56CA3}.Default|Default.ActiveCfg = Default
+		{F0D8F685-904D-45CA-8431-D39A23E7320C}.Default|Default.ActiveCfg = Default
+		{C619CB96-B188-4EAC-9F91-C7F0D30B8576}.Default|Default.ActiveCfg = Default
+		{9554F3F8-4C20-4153-A95B-BCAD76D33BCA}.Default|Default.ActiveCfg = Default
+		{65D8B47C-9829-45A9-B891-10709DAB6589}.Default|Default.ActiveCfg = Default
+		{DA87C067-04FB-4571-AE5D-5B63BA3D5475}.Default|Default.ActiveCfg = Default
+		{CC7A3C9D-BC9E-4924-9774-6805CEF02298}.Default|Default.ActiveCfg = Default
+		{558FEDB8-928F-48C5-BF22-1E1E5CC12E9C}.Default|Default.ActiveCfg = Default
+		{E639586B-68C1-42FD-8681-3E7091B5825C}.Default|Default.ActiveCfg = Default
+		{8D10E8D3-94B9-4224-8D88-D1BA77DC9761}.Default|Default.ActiveCfg = Default
+		{512E4218-636C-4965-8C38-986D3A78E9ED}.Default|Default.ActiveCfg = Default
+		{7A7EA58E-B190-4259-98F1-E0F54C83B5C2}.Default|Default.ActiveCfg = Default
+		{7B9ED0F8-F476-4325-80F9-2BC43297A39E}.Default|Default.ActiveCfg = Default
+		{E218895B-3B5E-47E9-AB7A-626EF95F9BD5}.Default|Default.ActiveCfg = Default
+		{DC35EC89-1026-4820-86A3-D6D2FD694DE2}.Default|Default.ActiveCfg = Default
+		{4321311B-290D-43D5-8AC4-DBB2414E3205}.Default|Default.ActiveCfg = Default
+		{B542D2D4-075C-4BD0-B494-9E3DB3FFB526}.Default|Default.ActiveCfg = Default
+		{747D578A-2FED-48E7-B906-46F878425EBD}.Default|Default.ActiveCfg = Default
+		{6F5D63B6-7D70-411A-9AF9-DBAE46E44205}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
